@@ -18,6 +18,7 @@ body {
 .hypno_div {
     background-color: white;
     border-radius: 100%;
+    width: 20vw;
     box-shadow: black 2% 2%;
 
 }
