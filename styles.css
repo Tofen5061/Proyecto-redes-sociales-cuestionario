@@ -1,7 +1,7 @@
 /* === ESTILOS GENERALES === */
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to bottom right, yellow, white);
+   background-color: black;
     display: flex;
     flex-direction: column;
     height: 100vh;
